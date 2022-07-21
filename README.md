@@ -1,4 +1,4 @@
-# A simple Rust GUI app built with GTK4
+# A simple Rust GUI app built with GTK4 and libadwaita
 The usage of this app is very limited, but it can display the current time (in Swedish) in a nice fashion.
 
 Heavily inspired by the designer clock [QLOCKTWO](https://qlocktwo.com/).
